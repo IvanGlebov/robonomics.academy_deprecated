@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63.656" height="73.453" viewBox="0 0 63.656 73.453">
   <defs>
     <clipPath id="clip-path">
-      <rect id="Прямоугольник_695" data-name="Прямоугольник 695" width="63.656" height="73.453" transform="translate(696.674 17.307)" fill="none"/>
+      <rect id="Прямоугольник_695"  width="63.656" height="73.453" transform="translate(696.674 17.307)" fill="none"/>
     </clipPath>
     <clipPath id="clip-path-2">
-      <path id="Контур_1029" data-name="Контур 1029" d="M696.717,72.4l31.806,18.364L760.33,72.4V35.67L728.523,17.308,696.717,35.671Z" fill="none"/>
+      <path id="Контур_1029"  d="M696.717,72.4l31.806,18.364L760.33,72.4V35.67L728.523,17.308,696.717,35.671Z" fill="none"/>
     </clipPath>
     <linearGradient id="linear-gradient" x1="-10.952" y1="1.068" x2="-10.937" y2="1.068" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#499ea1"/>
@@ -12,10 +12,10 @@
       <stop offset="1" stop-color="#3a7879"/>
     </linearGradient>
     <clipPath id="clip-path-3">
-      <rect id="Прямоугольник_691" data-name="Прямоугольник 691" width="31.806" height="55.091" transform="translate(728.524 35.67)" fill="none"/>
+      <rect id="Прямоугольник_691"  width="31.806" height="55.091" transform="translate(728.524 35.67)" fill="none"/>
     </clipPath>
     <clipPath id="clip-path-4">
-      <path id="Контур_1030" data-name="Контур 1030" d="M728.524,90.761,760.33,72.4V35.67L728.524,54.034Z" fill="none"/>
+      <path id="Контур_1030"  d="M728.524,90.761,760.33,72.4V35.67L728.524,54.034Z" fill="none"/>
     </clipPath>
     <linearGradient id="linear-gradient-2" x1="-11.383" y1="1.044" x2="-11.367" y2="1.044" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#499ea1"/>
@@ -25,13 +25,13 @@
       <stop offset="1" stop-color="#010101"/>
     </linearGradient>
     <clipPath id="clip-path-5">
-      <rect id="Прямоугольник_693" data-name="Прямоугольник 693" width="31.85" height="55.091" transform="translate(696.674 35.67)" fill="none"/>
+      <rect id="Прямоугольник_693"  width="31.85" height="55.091" transform="translate(696.674 35.67)" fill="none"/>
     </clipPath>
     <clipPath id="clip-path-6">
-      <path id="Контур_1031" data-name="Контур 1031" d="M696.674,35.67l31.85,18.364V90.761L696.674,72.4Z" fill="none"/>
+      <path id="Контур_1031"  d="M696.674,35.67l31.85,18.364V90.761L696.674,72.4Z" fill="none"/>
     </clipPath>
     <clipPath id="clip-path-7">
-      <path id="Контур_1032" data-name="Контур 1032" d="M725.24,22.06,702.18,35.375a5.514,5.514,0,0,1,0,1.232l23.062,13.315a5.507,5.507,0,0,1,6.541,0l23.062-13.315a5.521,5.521,0,0,1,0-1.232L731.785,22.06a5.509,5.509,0,0,1-6.542,0Zm31.819,18.225L733.973,53.748a5.51,5.51,0,0,1-3.271,5.665l.026,26.481a5.471,5.471,0,0,1,1.067.616L754.857,73.2a5.51,5.51,0,0,1,3.271-5.666V40.9a5.423,5.423,0,0,1-1.067-.616Zm-57.072.148a5.471,5.471,0,0,1-1.067.616V67.678a5.509,5.509,0,0,1,3.271,5.665l23.061,13.314a5.522,5.522,0,0,1,1.067-.616V59.413a5.51,5.51,0,0,1-3.271-5.666l-23.06-13.315Z" fill="none"/>
+      <path id="Контур_1032"  d="M725.24,22.06,702.18,35.375a5.514,5.514,0,0,1,0,1.232l23.062,13.315a5.507,5.507,0,0,1,6.541,0l23.062-13.315a5.521,5.521,0,0,1,0-1.232L731.785,22.06a5.509,5.509,0,0,1-6.542,0Zm31.819,18.225L733.973,53.748a5.51,5.51,0,0,1-3.271,5.665l.026,26.481a5.471,5.471,0,0,1,1.067.616L754.857,73.2a5.51,5.51,0,0,1,3.271-5.666V40.9a5.423,5.423,0,0,1-1.067-.616Zm-57.072.148a5.471,5.471,0,0,1-1.067.616V67.678a5.509,5.509,0,0,1,3.271,5.665l23.061,13.314a5.522,5.522,0,0,1,1.067-.616V59.413a5.51,5.51,0,0,1-3.271-5.666l-23.06-13.315Z" fill="none"/>
     </clipPath>
     <linearGradient id="linear-gradient-3" x1="-8.874" y1="1.06" x2="-8.861" y2="1.06" gradientUnits="objectBoundingBox">
       <stop offset="0" stop-color="#71c6cf"/>
@@ -41,37 +41,37 @@
       <stop offset="1" stop-color="#48989b"/>
     </linearGradient>
   </defs>
-  <g id="Сгруппировать_630" data-name="Сгруппировать 630" transform="translate(-696.674 -17.307)" clip-path="url(#clip-path)">
-    <g id="Сгруппировать_617" data-name="Сгруппировать 617">
-      <g id="Сгруппировать_616" data-name="Сгруппировать 616" clip-path="url(#clip-path-2)">
-        <rect id="Прямоугольник_689" data-name="Прямоугольник 689" width="63.613" height="73.453" transform="translate(696.717 17.308)" fill="url(#linear-gradient)"/>
+  <g id="Сгруппировать_630"  transform="translate(-696.674 -17.307)" clip-path="url(#clip-path)">
+    <g id="Сгруппировать_617" >
+      <g id="Сгруппировать_616"  clip-path="url(#clip-path-2)">
+        <rect id="Прямоугольник_689"  width="63.613" height="73.453" transform="translate(696.717 17.308)" fill="url(#linear-gradient)"/>
       </g>
     </g>
-    <g id="Сгруппировать_622" data-name="Сгруппировать 622" opacity="0.25">
-      <g id="Сгруппировать_621" data-name="Сгруппировать 621">
-        <g id="Сгруппировать_620" data-name="Сгруппировать 620" clip-path="url(#clip-path-3)">
-          <g id="Сгруппировать_619" data-name="Сгруппировать 619">
-            <g id="Сгруппировать_618" data-name="Сгруппировать 618" clip-path="url(#clip-path-4)">
-              <rect id="Прямоугольник_690" data-name="Прямоугольник 690" width="62.647" height="59.777" transform="translate(701.397 67.998) rotate(-50)" fill="url(#linear-gradient-2)"/>
+    <g id="Сгруппировать_622"  opacity="0.25">
+      <g id="Сгруппировать_621" >
+        <g id="Сгруппировать_620"  clip-path="url(#clip-path-3)">
+          <g id="Сгруппировать_619" >
+            <g id="Сгруппировать_618"  clip-path="url(#clip-path-4)">
+              <rect id="Прямоугольник_690"  width="62.647" height="59.777" transform="translate(701.397 67.998) rotate(-50)" fill="url(#linear-gradient-2)"/>
             </g>
           </g>
         </g>
       </g>
     </g>
-    <g id="Сгруппировать_627" data-name="Сгруппировать 627" opacity="0.33">
-      <g id="Сгруппировать_626" data-name="Сгруппировать 626">
-        <g id="Сгруппировать_625" data-name="Сгруппировать 625" clip-path="url(#clip-path-5)">
-          <g id="Сгруппировать_624" data-name="Сгруппировать 624">
-            <g id="Сгруппировать_623" data-name="Сгруппировать 623" clip-path="url(#clip-path-6)">
-              <image id="Прямоугольник_692" data-name="Прямоугольник 692" width="61" height="72" transform="translate(682 26.749)" xlink:href="data:image/png;base64,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"/>
+    <g id="Сгруппировать_627"  opacity="0.33">
+      <g id="Сгруппировать_626" >
+        <g id="Сгруппировать_625"  clip-path="url(#clip-path-5)">
+          <g id="Сгруппировать_624" >
+            <g id="Сгруппировать_623"  clip-path="url(#clip-path-6)">
+              <image id="Прямоугольник_692"  width="61" height="72" transform="translate(682 26.749)" xlink:href="data:image/png;base64,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"/>
             </g>
           </g>
         </g>
       </g>
     </g>
-    <g id="Сгруппировать_629" data-name="Сгруппировать 629">
-      <g id="Сгруппировать_628" data-name="Сгруппировать 628" clip-path="url(#clip-path-7)">
-        <rect id="Прямоугольник_694" data-name="Прямоугольник 694" width="77.72" height="73.909" transform="translate(682.771 82.329) rotate(-75)" fill="url(#linear-gradient-3)"/>
+    <g id="Сгруппировать_629" >
+      <g id="Сгруппировать_628"  clip-path="url(#clip-path-7)">
+        <rect id="Прямоугольник_694"  width="77.72" height="73.909" transform="translate(682.771 82.329) rotate(-75)" fill="url(#linear-gradient-3)"/>
       </g>
     </g>
   </g>
