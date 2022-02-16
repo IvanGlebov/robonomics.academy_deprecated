@@ -1,0 +1,27 @@
+.section, section {
+    margin-top: calc(var(--space)*2);
+    margin-bottom: calc(var(--space)*2);
+    height: calc(100vw - var(--space)*4);
+}
+
+.section__solid {
+    background-color: var(--color-light);
+    padding-top: calc(var(--space)*2);
+    padding-bottom: calc(var(--space)*2);
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.section__ocher {
+    background-color: var(--color-ocher);
+}
+
+
+
+.fade-enter-active {
+    transition: opacity .5s;
+}
+
+.fade-enter {
+    opacity: 0;
+}

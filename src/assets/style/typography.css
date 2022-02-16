@@ -1,0 +1,13 @@
+.underlined-header {
+    float: left;
+    box-shadow: 0 2px var(--color-ocher);
+}
+
+.underlined-header__inverted {
+    float: left;
+    box-shadow: 0 2px var(--color-light);
+}
+
+.form-p {
+    font-family: var(--font-family-yeseva);
+}
