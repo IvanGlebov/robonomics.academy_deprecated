@@ -117,7 +117,7 @@
 </template>
 
 <script>
-import OpportunityCard from "../components/OpportunityCard";
+import OpportunityCard from "~/components/OpportunityCard";
 
 export default {
   components: {

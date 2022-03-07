@@ -33,7 +33,6 @@ export default {
       } else if (scroll <= scrollLimit - 20) {
         this.$data.is_scrolled = false
       }
-      console.log('Window scroll', window.scrollY)
     }
   },
   mounted() {

@@ -33,6 +33,8 @@ export default {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
+    font-family: var(--font-family-yeseva);
+    font-style: normal;
   }
 
   input {
